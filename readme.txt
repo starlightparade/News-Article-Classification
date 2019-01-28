@@ -1,0 +1,16 @@
+requirements:
+numpy==1.14.3
+xgboost==0.81
+scikit_learn==0.19.2
+nltk==3.3.0
+pySpellchecker==0.2.0
+pandas==0.23.4
+spicy==0.16.0
+beautifulsoap=4.4.0
+bs4==0.0.1
+ssl==1.16
+urllib==2.7.9
+socket==2.0.0
+nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('punkt')
